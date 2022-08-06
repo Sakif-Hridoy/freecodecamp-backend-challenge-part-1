@@ -19,5 +19,6 @@
   "license": "ISC",
   "devDependencies": {},
   "keywords": [ "freecodecamp", "microservice", "guide" ],
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.2.0"
 }
