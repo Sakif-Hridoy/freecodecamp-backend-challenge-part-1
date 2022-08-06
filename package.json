@@ -17,5 +17,6 @@
   "version": "1.0.0",
   "author": "Sakif Dewan",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": [ "freecodecamp", "microservice", "guide" ]
 }
