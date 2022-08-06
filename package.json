@@ -18,5 +18,6 @@
   "author": "Sakif Dewan",
   "license": "ISC",
   "devDependencies": {},
-  "keywords": [ "freecodecamp", "microservice", "guide" ]
+  "keywords": [ "freecodecamp", "microservice", "guide" ],
+  "license": "MIT"
 }
