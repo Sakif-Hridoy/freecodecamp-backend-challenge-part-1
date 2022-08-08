@@ -16,9 +16,12 @@
   "description": "This is introductory project using node js with express",
   "version": "1.0.0",
   "author": "Sakif Dewan",
-  "license": "ISC",
-  "devDependencies": {},
-  "keywords": [ "freecodecamp", "microservice", "guide" ],
   "license": "MIT",
+  "devDependencies": {
+    "package-name": "version",
+    "express": "4.14.0"
+  },
+  "keywords": [ "freecodecamp", "microservice", "guide" ],
+  
   "version": "1.2.0"
 }
